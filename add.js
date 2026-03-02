@@ -1,2 +1,2 @@
 console.log('my nigga');
-return;
+console.log('bet');
